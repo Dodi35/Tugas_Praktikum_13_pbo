@@ -1,4 +1,4 @@
-Praktikum 13 – Membangun Aplikasi Multi Komponen (POS) Mata Kuliah Pemrograman Berorientasi Objek – Praktikum (INF2143)
+Praktikum 13 – Membangun Aplikasi Multi Komponen (POS) Mata Kuliah Pemrograman Berorientasi Objek – Praktikum
 
 ---
 Identitas Mahasiswa • Nama : Dodi • NIM : 2411102441035 • Kelas : B
@@ -120,12 +120,6 @@ Menampilkan produk
 Menambahkan produk ke keranjang
 Menghitung total belanja
 Melakukan pembayaran
-
----
-Version Control
-Proyek ini dikelola menggunakan Git dan diunggah ke GitHub
-sebagai bagian dari penerapan version control sesuai dengan instruksi modul praktikum.
-Riwayat commit digunakan sebagai bukti proses pengembangan aplikasi.
 
 ---
 Kesimpulan
